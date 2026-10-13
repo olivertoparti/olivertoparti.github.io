@@ -1,13 +1,18 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+permalink: /blog/
+title: "Blog"
+description: "Writing by Oliver Toparti on medical device security, AI systems security, cyber-physical infrastructure and health technology policy."
 author_profile: true
 redirect_from:
+  - /year-archive/
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+{% if site.posts.size == 0 %}
+<p>Posts are on the way. In the meantime, my earlier writing is on my <a href="https://blogs.imperial.ac.uk/toparti/">Imperial College blog</a>.</p>
+{% endif %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
