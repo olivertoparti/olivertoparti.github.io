@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #
+  googlescholar    : "https://scholar.google.com/citations?user=0vfVni0AAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-5316-912X"
   pubmed           : #
@@ -146,12 +146,12 @@ social:
     - "Cyber-physical systems security"
     - "AI security"
     - "Digital health policy"
-  # Add your LinkedIn, ORCID and Google Scholar URLs here: Google uses these
-  # "sameAs" links to connect this site to your other profiles.
+  # Google uses these "sameAs" links to connect this site to your other profiles.
   links:
     - "https://www.linkedin.com/in/toparti/"
     - "https://github.com/olivertoparti"
     - "https://orcid.org/0009-0005-5316-912X"
+    - "https://scholar.google.com/citations?user=0vfVni0AAAAJ"
     - "https://x.com/topartioliver"
     - "https://www.cybnode.com"
     - "https://blogs.imperial.ac.uk/toparti/"
