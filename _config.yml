@@ -7,15 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-GB"
-title                    : "Oliver Toparti"
-title_separator          : "-"
-name                     : &name "Oliver Toparti"
-description              : &description "Academic Portfolio"
-url                      : https://toparti.com 
-baseurl                  : ""
-repository               : "topartio/topartio.github.io"
-
+locale          : "en-GB"
+title           : "Oliver Toparti"
+title_separator : "-"
+name            : &name "Oliver Toparti"
+description     : &description "Official website of Oliver Toparti"
+url             : "https://toparti.com"
+baseurl         : ""
+repository      : "olivertoparti/olivertoparti.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
