@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-5316-912X"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Toparti+O%5BAuthor%5D"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Oliver-Toparti-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -152,6 +152,7 @@ social:
     - "https://github.com/olivertoparti"
     - "https://orcid.org/0009-0005-5316-912X"
     - "https://scholar.google.com/citations?user=0vfVni0AAAAJ"
+    - "https://www.researchgate.net/profile/Oliver-Toparti-2"
     - "https://x.com/topartioliver"
     - "https://www.cybnode.com"
     - "https://blogs.imperial.ac.uk/toparti/"
