@@ -1,0 +1,12 @@
+---
+title: "Plugging the Gaps: Investigating the Causes of Patch Delays and Suspensions in WordPress Plugin Development"
+collection: publications
+permalink: /publication/plugging-the-gaps-investigating-the-causes-of-patch-delays-and-suspensions-in-wordpress-plugin-development
+excerpt: 'This dissertation examines the causes and impacts of patch delays and suspensions in WordPress plugins, aiming to understand their effects on developers and users.'
+date: 2023-02-17
+venue: 'School of Computing, Mathematics and Data Science, Coventry University'
+paperurl: '/files/6047CEM_OToparti.pdf'
+citation: 'Toparti, Oliver. (2023). &quot;Plugging the Gaps: Investigating the Causes of Patch Delays and Suspensions in WordPress Plugin Development.&quot; <i>School of Computing, Mathematics and Data Science, Coventry University</i>'
+---
+
+The subsequent dissertation investigates the causes and impacts of patch delays and suspensions in WordPress plugin development, as well as their effects on users'. With over 93% of WordPress vulnerabilities originating from plugins, this dissertation aims to provide a comprehensive understanding of the issues from both the developer and user perspectives. To this end, the paper analyses contemporary literature, carries out qualitative research, and designs and implements a proofof-concept software solution called the WordPress Plugin Patch (WPP) Monitor plugin. The paper's findings highlight the importance of monitoring WordPress plugin patches, with the WPP Monitor plugin incorporating an automatic notification system to ensure timely patching. Overall, the study's findings highlight the importance of monitoring WordPress plugin patches, with the WPP Monitor plugin incorporating an automatic notification system to ensure timely patching. The dissertation's findings reveal that only 21.7% of small-to-medium sized enterprises (SMEs) have an advanced understanding of web development, leading over 52% of them to outsource web development to thirdparty developers. Furthermore, concludes that many web developers make mistakes that leave SMEs vulnerable, such as selecting plugins based solely on ratings and reviews and installing ineffective security plugins. Despite limited research in this area, the dissertation aims to fill this gap.

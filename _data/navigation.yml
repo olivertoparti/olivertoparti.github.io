@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /files/ICV-2023.pdf
+
+  - title: "Startup"
+    url: https://otacust.com/
+
+  - title: "Initiative"
+    url: https://www.idcd.org.uk/
+
+  - title: "External Blog"
+    url: https://blogs.imperial.ac.uk/toparti/
+
+  # - title: "Talks"
+  #  url: /talks/    
+
+  # - title: "Teaching"
+  #  url: /teaching/    
+    
+  # - title: "Portfolio"
+  #  url: /portfolio/
+        
+  # - title: "Guide"
+  #  url: /markdown/
