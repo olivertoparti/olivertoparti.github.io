@@ -4,10 +4,10 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /files/ICV-2023.pdf
+    url: /cv/
 
   - title: "Startup"
-    url: https://otacust.com/
+    url: https://www.cybnode.com/
 
   - title: "Initiative"
     url: https://www.idcd.org.uk/
