@@ -15,4 +15,6 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+!_sass/vendor/
+!_sass/vendor/**
 node_modules/
