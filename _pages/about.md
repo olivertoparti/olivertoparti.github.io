@@ -26,4 +26,4 @@ Alongside research, I am the founder of [CYBNODE Ltd](https://www.cybnode.com), 
 
 In 2025 and 2026 I co-organised programme development for the [Advanced Research + Invention Agency](https://www.aria.org.uk/)'s *Trust Everything, Everywhere* initiative, contributing expertise in cyber-physical systems and secure AI. I also serve on the Alumni Advisory Board of the College of Engineering, Environment and Science at Coventry University.
 
-A full account of my education, publications and experience is on my [CV](/cv/). You can reach me by email or through the links in the sidebar.
+A full account of my education, publications and experience is on my [CV](/cv/), and the things I build outside academia are under [side projects](/side-projects/). You can reach me by email or through the links in the sidebar.
