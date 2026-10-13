@@ -12,6 +12,8 @@ redirect_from:
 
 **Oliver Toparti** · Security Researcher, AI Systems & Cyber-Physical Security · London, United Kingdom
 
+[Download the full CV as a PDF](/files/Oliver_Toparti_CV.pdf){: .btn .btn--info} · [ORCID 0009-0005-5316-912X](https://orcid.org/0009-0005-5316-912X)
+
 Education
 ======
 **MSc Security and Resilience (Physics), Imperial College London** · September 2023 – September 2025

@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0005-5316-912X"
   pubmed           : #
   researchgate     : # URL
 
@@ -151,6 +151,7 @@ social:
   links:
     - "https://www.linkedin.com/in/toparti/"
     - "https://github.com/olivertoparti"
+    - "https://orcid.org/0009-0005-5316-912X"
     - "https://x.com/topartioliver"
     - "https://www.cybnode.com"
     - "https://blogs.imperial.ac.uk/toparti/"
