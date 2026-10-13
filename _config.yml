@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "toparti"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -149,6 +149,7 @@ social:
   # Add your LinkedIn, ORCID and Google Scholar URLs here: Google uses these
   # "sameAs" links to connect this site to your other profiles.
   links:
+    - "https://www.linkedin.com/in/toparti/"
     - "https://github.com/olivertoparti"
     - "https://x.com/topartioliver"
     - "https://www.cybnode.com"
