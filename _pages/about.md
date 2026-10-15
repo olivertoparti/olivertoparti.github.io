@@ -22,7 +22,7 @@ I am seeking doctoral opportunities on the security of AI-enabled medical device
 
 ## Industry and public service
 
-Alongside research, I am the founder of [CYBNODE Ltd](https://www.cybnode.com), a London-based AI product security consultancy delivering secure software and DevSecOps services, where I lead the development of Stravok, a platform that reduces audit effort for GDPR, SOC 2 and ISO 27001. As a full-stack developer at First Class Watches I re-platformed a legacy e-commerce business onto a modern Next.js, Laravel and FastAPI stack and now build LLM-based tooling for internal analytics.
+Alongside research, I am the founder of [CYBNODE Ltd](https://www.cybnode.com), a London-based AI product security consultancy delivering secure software and DevSecOps services, where I lead the development of Stravok, a platform that reduces audit effort for GDPR and ISO 27001. As Lead Engineer, E-commerce Platform at First Class Watches, I re-platformed a legacy e-commerce business onto a modern Next.js, Laravel and FastAPI stack, run its production infrastructure, and build LLM-based tooling for product search and internal analytics.
 
 In 2025 and 2026 I co-organised programme development for the [Advanced Research + Invention Agency](https://www.aria.org.uk/)'s *Trust Everything, Everywhere* initiative, contributing expertise in cyber-physical systems and secure AI. I also serve on the Alumni Advisory Board of the College of Engineering, Environment and Science at Coventry University.
 

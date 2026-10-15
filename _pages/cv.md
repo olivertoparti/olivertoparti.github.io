@@ -43,15 +43,18 @@ Research in progress
 
 Professional experience
 ======
-**Full Stack Developer, First Class Watches Ltd** · June 2023 – present
+**Lead Engineer, E-commerce Platform, First Class Watches Ltd** · June 2023 – present
+
+*Joined in 2023 as Graduate Engineer, E-commerce Platform. Now also responsible for the production infrastructure, outages and payments.*
+
 * Migrated a legacy WooCommerce site to a Next.js (React), Laravel (PHP) and FastAPI (Python) stack, integrating the Amazon SP-API, Stripe, Royal Mail and DPD
 * Building ChronoAI, an LLM-based text-to-SQL assistant for internal reporting using the OpenAI and Anthropic APIs and LangChain
 * Drove platform changes and tuning that contributed to revenue growth from £190k to £485k (+155%) without increased marketing spend
 
-**Founder & Lead Security Engineer, CYBNODE Ltd** · July 2021 – present
+**Founder, CYBNODE Ltd** · July 2021 – present
 * Founded [CYBNODE](https://www.cybnode.com), a cybersecurity technology company that began as a web development business during the COVID-19 pandemic and has evolved into a London-based AI product security consultancy delivering secure software and DevSecOps services
-* Building Stravok, CYBNODE's DevSecOps platform that reduces audit effort for GDPR, SOC 2 and ISO 27001
-* Delivered more than 25 client projects, scaling the company's offering from websites to end-to-end secure software and web applications
+* Building Stravok, CYBNODE's DevSecOps platform that reduces audit effort for GDPR and ISO 27001
+* Built websites and web applications for more than 25 clients between 2021 and 2023
 
 Other activities
 ======
